@@ -1,0 +1,9 @@
+C:\Users\votra\source\repos\XmlForm\XmlForm\bin\Debug\XmlForm.exe.config
+C:\Users\votra\source\repos\XmlForm\XmlForm\bin\Debug\XmlForm.exe
+C:\Users\votra\source\repos\XmlForm\XmlForm\bin\Debug\XmlForm.pdb
+C:\Users\votra\source\repos\XmlForm\XmlForm\obj\Debug\XmlForm.Form1.resources
+C:\Users\votra\source\repos\XmlForm\XmlForm\obj\Debug\XmlForm.Properties.Resources.resources
+C:\Users\votra\source\repos\XmlForm\XmlForm\obj\Debug\XmlForm.csproj.GenerateResource.cache
+C:\Users\votra\source\repos\XmlForm\XmlForm\obj\Debug\XmlForm.exe
+C:\Users\votra\source\repos\XmlForm\XmlForm\obj\Debug\XmlForm.pdb
+C:\Users\votra\source\repos\XmlForm\XmlForm\obj\Debug\XmlForm.csprojAssemblyReference.cache
